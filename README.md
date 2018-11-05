@@ -1,3 +1,1 @@
 # trproject
-
-socla carla
